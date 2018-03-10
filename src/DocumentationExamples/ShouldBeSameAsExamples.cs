@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using Shouldly;
+﻿using Shouldly;
 using Simpsons;
 using Xunit;
 using Xunit.Abstractions;
@@ -8,7 +7,7 @@ namespace DocumentationExamples
 {
     public class ShouldBeSameAsExamples
     {
-        readonly ITestOutputHelper _testOutputHelper;
+        private readonly ITestOutputHelper _testOutputHelper;
 
         public ShouldBeSameAsExamples(ITestOutputHelper testOutputHelper)
         {
