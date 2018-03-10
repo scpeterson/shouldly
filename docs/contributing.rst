@@ -1,5 +1,5 @@
 Contributing
-=================
+============
 
 Once you have cloned Shouldly to your local machine, the following instructions will walk you through installing the tools necessary to build and test the documentation.
 
